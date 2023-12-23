@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2023-12-23T16:23:18.224+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2023-12-23T17:11:34.099+01:00"}
 ---
 
 
@@ -31,7 +31,7 @@ In my vault and my entire organizing system, I follow Matuschaks idea of "prefer
 
 3. **Tags**: Tags in Obsidian provide a flexible and dynamic way to categorize and connect your notes. You can assign one or more tags to each note, which allows you to organize your notes across different dimensions. For example, you can tag notes with keywords like "project," "research," "personal," or any other relevant category. While most people have a tagging system for this, I prefer to use tags only as a form of "properties" indicator, where it tells me what the note is for. [[How I organize my Vault and blog#purpose Types Gives Me an Insight in what They Are for](../../../..//01_Navigation/Blog/Unsorted/How%20I%20organize%20my%20Vault%20and%20blog.md)
 
-3. **Bi-Directional Links**: Bi-directional links are one of the core features that set Obsidian apart from other note-taking applications. They enable a two-way connection between notes. Whenever you mention a note within the text of another note, Obsidian automatically creates a backlink from the mentioned note to the note where the reference was made. This bidirectional linking allows you to establish relationships between ideas, concepts, and notes effortlessly. You can see at a glance which notes are connected to a specific idea and this, in essence is how you navigate this website; non-linearily. Remember, this vault is a language and [[notes represent my language](../../../0_Hidden%20&%20Private/Inbox%20System/notes%20represent%20my%20language.md).
+3. **Bi-Directional Links**: Bi-directional links are one of the core features that set Obsidian apart from other note-taking applications. They enable a two-way connection between notes. Whenever you mention a note within the text of another note, Obsidian automatically creates a backlink from the mentioned note to the note where the reference was made. This bidirectional linking allows you to establish relationships between ideas, concepts, and notes effortlessly. You can see at a glance which notes are connected to a specific idea and this, in essence is how you navigate this website; non-linearily. Remember, this vault is a language and [[notes represent my language](notes%20represent%20my%20language.md).
 
 ### How I Use Tags in Obsidian
 

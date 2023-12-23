@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2023-12-23T16:59:51.741+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2023-12-23T17:09:50.482+01:00"}
 ---
-
 
 ## Scientific Theory Basics
 Scientific theory is a fundamental aspect of the scientific method, which is a systematic approach used by scientists to acquire knowledge about the natural world. A scientific theory is a well-substantiated explanation of some aspect of the natural world that is based on a body of evidence and has been repeatedly tested and confirmed through experimentation and observation.

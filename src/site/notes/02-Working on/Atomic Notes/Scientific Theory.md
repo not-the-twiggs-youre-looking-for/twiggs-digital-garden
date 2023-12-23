@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2023-12-23T16:54:40.376+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2023-12-23T16:59:51.741+01:00"}
 ---
-
 
 
 ## Scientific Theory Basics

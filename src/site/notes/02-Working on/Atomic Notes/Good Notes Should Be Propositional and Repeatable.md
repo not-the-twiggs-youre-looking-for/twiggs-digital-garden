@@ -6,4 +6,4 @@ The main problem with having notes that lack clear titles and aren't deeply inte
 
 Propositional titles serve a dual purpose. They provide a concise summary of what the note is about right in the title itself.
 
-But second, [[0_Hidden & Private/Inbox System/notes represent my language\|notes represent my language]] (see link for more).
+But second, [[02-Working on/Atomic Notes/notes represent my language\|notes represent my language]] (see link for more).

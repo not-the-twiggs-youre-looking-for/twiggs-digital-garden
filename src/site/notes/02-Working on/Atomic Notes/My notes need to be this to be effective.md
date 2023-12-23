@@ -8,7 +8,7 @@ For my notetaking and publishing workflow I try to adhere to two principles of n
 Namely that
 1. [[02-Working on/Atomic Notes/Good Notes Should Be Propositional and Repeatable\|Good Notes Should Be Propositional and Repeatable]]
 2. [[02-Working on/Atomic Notes/Notes Need to Be Deeply Interlinked and Easily Discoverable\|Notes Need to Be Deeply Interlinked and Easily Discoverable]]
-3. Notes need to be personal & [[0_Hidden & Private/Inbox System/notes represent my language\|notes represent my own language]]
+3. Notes need to be personal & [[02-Working on/Atomic Notes/notes represent my language\|notes represent my own language]]
 
 
 I've found that the traditional methods of [[02-Working on/Atomic Notes/Zettlekasten Doesn't Work for Me\|zettlekasten doesn’t really work for me]].  Thus I need to innovate in some other way, because I do want a [[

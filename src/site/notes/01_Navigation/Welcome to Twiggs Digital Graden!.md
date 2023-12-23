@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/welcome-to-twiggs-digital-graden/","title":"Welcome to Twiggs Digital Graden!","tags":["gardenEntry"],"noteIcon":"","created":"Monday, December 18th 2023, 6:46:47 pm","updated":"2023-12-23T16:54:00.794+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/welcome-to-twiggs-digital-graden/","title":"Welcome to Twiggs Digital Graden!","tags":["gardenEntry"],"noteIcon":"","created":"Monday, December 18th 2023, 6:46:47 pm","updated":"2023-12-23T17:07:01.731+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Hello!
 
 If you're here that means that you've stumbled into my "everything" vault. It is here that I hold all of the information, thoughts and opinions that have accumulated and will accumulate over my life *(at least to the degree that I'm comfortable sharing)*.
 
-**I write** (read: [[02-Working on/Atomic Notes/Rapidly dumping info with Voice-to-text and AI-editing to make notes fast\|rapidly dump down text using my voice and correction tools]]) **about almost anything** that strikes my fancy. Such as [[02-Working on/Atomic Notes/Twiggs Interests and Hobbies\|about my interests]], travels and things I've learned through university or throughout life.
+**I write** (read: [[02-Working on/Atomic Notes/Rapidly dumping info with Voice-to-text and AI-editing to make notes fast\|rapidly dump down text using my voice and correction tools]]) **about almost anything** that strikes my fancy. Such as my hobbies, travels and things I've learned through university or throughout life.
 
 While these writings mostly in the public eye, most are written for myself, [[02-Working on/Atomic Notes/My notes need to be this to be effective\| based on Matuschaks principles]] and organized in a philosophy similar to [[02-Working on/Atomic Notes/Atomic notes\|atomic notes]] with  the entire structure of this is inspired heavily by Andy Matuschak [^1] and Gwern's[^2] blogs. The goal is to one day, be an equally binge-worth source of information as them.
 

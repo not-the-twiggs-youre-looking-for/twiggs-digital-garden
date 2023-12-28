@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/thematical-analysis/","title":"Thematical Analysis","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 5:05:50 pm","updated":"2023-12-23T16:54:18.902+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/thematical-analysis/","title":"Thematical Analysis","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 5:05:50 pm","updated":"2023-12-23T19:45:44.693+01:00"}
 ---
+
 
 # Thematical Analysis
 **Refactored from: [[99_System Folder/System Files/Zotero/References/@braunUsingThematicAnalysis2006\|@braunUsingThematicAnalysis2006]]**
@@ -17,6 +18,8 @@ Thematical analysis somehow inherently assumes a level of subjectivity and align
 
 The  steps of conducting a thematic analysis include familiarizing oneself with the data, generating initial codes, and then organizing these codes into **potential themes**.  Or when analyzing a set the data you can start to identify themes in the data set that you're investigating and you can either an
 [[02-Working on/Atomic Notes/Inductive or Deductive Approach in Research\|Inductive or Deductive Approach in Research]] [@braunUsingThematicAnalysis2006a, @denscombeGoodResearchGuide2014]
+
+* A common pitfall in (reflexive TA) theme development is identifying a feature of the data, rather than meaning-based patterns.[ Source: usability geek](https://medium.com/usabilitygeek/thematic-analysis-in-hci-57edae583ca9)
 
 This method's applicability across various research domains underscores its efficacy and flexibility, making it a critical tool for qualitative research. The methodology's adaptability to different theoretical frameworks and the breadth of its application solidify its standing as a valuable asset in the realm of research, extending its relevance far beyond psychology.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/human-geography/","title":"Human Geography","noteIcon":"","created":"Saturday, June 24th 2023, 7:34:52 am","updated":"2023-12-23T16:54:18.851+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/human-geography/","title":"Human Geography","noteIcon":"","created":"Saturday, June 24th 2023, 7:34:52 am","updated":"2023-12-24T15:43:19.221+01:00"}
 ---
 
 ### Human Geography

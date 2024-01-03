@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/kuhn-cycle/","title":"Kuhn Cycle","noteIcon":"","created":"Monday, December 18th 2023, 1:41:17 pm","updated":"2023-12-23T16:54:18.857+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/kuhn-cycle/","title":"Kuhn Cycle","noteIcon":"","created":"Monday, December 18th 2023, 1:41:17 pm","updated":"2024-01-03T01:11:05.182+01:00"}
 ---
 
 

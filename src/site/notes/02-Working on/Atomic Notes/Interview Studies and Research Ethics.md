@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/interview-studies-and-research-ethics/","title":"Interview Studies and Research Ethics","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 12:50:18 pm","updated":"2023-12-23T16:54:18.857+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/interview-studies-and-research-ethics/","title":"Interview Studies and Research Ethics","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 12:50:18 pm","updated":"2024-01-03T01:57:36.409+01:00"}
 ---
 
 
@@ -38,11 +38,11 @@ Ethical considerations are crucial in social geographical research. Researchers 
 
 
 # Asking Questions Does not Really Give Direct Access to the Individuals Brain
-"Authenticity and the Interview: A Positive Response to a Radical Critique" by Emilie Morwenna Whitaker and Paul Atkinson (2019)<mark style="background: #ADCCFFA6;"> explores the radical critique, which challenges the assumption that interviews provide direct access to the private emotions and experiences of individua</mark>ls. The authors highlight the <mark style="background: #BBFABBA6;">criticism of the romantic view that interviews reveal authentic voices and experiences, and they argue against the idea that interviews can unproblematically represent respondents' private thoughts and memories.</mark> They also discuss the responses by Hammersley and Silverman[@silvermanHowWasIt2017, @hammersleyInterviewDataQualified2017], who agree with some criticisms of interviews but find the radical critique too negative overall. [[99_System Folder/System Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019\|@whitakerAuthenticityInterviewPositive2019]]
+"Authenticity and the Interview: A Positive Response to a Radical Critique" by Emilie Morwenna Whitaker and Paul Atkinson (2019)<mark style="background: #ADCCFFA6;"> explores the radical critique, which challenges the assumption that interviews provide direct access to the private emotions and experiences of individua</mark>ls. The authors highlight the <mark style="background: #BBFABBA6;">criticism of the romantic view that interviews reveal authentic voices and experiences, and they argue against the idea that interviews can unproblematically represent respondents' private thoughts and memories.</mark> They also discuss the responses by Hammersley and Silverman[@silvermanHowWasIt2017, @hammersleyInterviewDataQualified2017], who agree with some criticisms of interviews but find the radical critique too negative overall.
 
 ### Interviews Are Inherently Flawed
 
-"Interview Data: A Qualified Defence Against the Radical Critique" by Martyn Hammersley [@hammersleyInterviewDataQualified2017] provides a defense against the radical critique of interview data. Hammersley challenges the overextension of the critique and advocates for a more balanced approach that acknowledges both the limitations and the value of interviews. <mark style="background: #FF5582A6;">He discusses the gathering of diverse insights through interviews, including access to personal narratives and understanding social dynamics</mark>. Hammersley also emphasizes the importance of critical analysis of discourse practices and contextual understanding in ensuring the reliability of interview data. The paper examines naturalistic and [[02-Working on/Atomic Notes/Constructivism\|constructivistic]] views in the context of qualitative research.
+"Interview Data: A Qualified Defence Against the Radical Critique" by Martyn Hammersley [@hammersleyInterviewDataQualified2017] provides a defense against the radical critique of interview data. Hammersley challenges the overextension of the critique and advocates for a more balanced approach that acknowledges both the limitations and the value of interviews. <mark style="background: #FF5582A6;">He discusses the gathering of diverse insights through interviews, including access to personal narratives and understanding social dynamics</mark>. Hammersley also emphasizes the importance of critical analysis of discourse practices and contextual understanding in ensuring the reliability of interview data. The paper examines naturalistic and  views in the context of qualitative research.
 
 "How was it for you? The Interview Society and the Irresistible Rise of the (Poorly Analyzed) Interview" by David Silverman (2017) critiques the overuse and poor analysis of interview data in qualitative research. <mark style="background: #FF5582A6;">Silverman raises concerns about the reliance on interviews without rigorous analysis and the tendency to interpret interview data as direct reflections of respondents' internal states or experiences.</mark> He stresses the need for nuanced and critical analysis of interview data, including the analysis of social dynamics and performative aspects of interviews.
 
@@ -53,10 +53,10 @@ Overall, these texts provide a nuanced understanding of the role and reliability
 
 # References & Citations
 
-[[99_System Folder/System Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019\|@whitakerAuthenticityInterviewPositive2019]]
-[[99_System Folder/System Files/Zotero/References/@hammersleyInterviewDataQualified2017\|@hammersleyInterviewDataQualified2017]]
-[[99_System Folder/System Files/Zotero/References/@HowWasIt\|@HowWasIt]]
-[[99_System Folder/System Files/Zotero/References/@chevtaevaCoworkingColivingAttraction2020\|@chevtaevaCoworkingColivingAttraction2020]]
+[[../../99_System%20Folder/System%20Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019.md\|../../99_System%20Folder/System%20Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019.md]]
+[[../../99_System%20Folder/System%20Files/Zotero/References/@hammersleyInterviewDataQualified2017.md\|../../99_System%20Folder/System%20Files/Zotero/References/@hammersleyInterviewDataQualified2017.md]]
+[[../../99_System%20Folder/System%20Files/Zotero/References/@HowWasIt.md\|../../99_System%20Folder/System%20Files/Zotero/References/@HowWasIt.md]]
+[[../../99_System%20Folder/System%20Files/Zotero/References/@chevtaevaCoworkingColivingAttraction2020.md\|../../99_System%20Folder/System%20Files/Zotero/References/@chevtaevaCoworkingColivingAttraction2020.md]]
 
 
 

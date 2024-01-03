@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/chat-gpt-and-adhd-a-comprehensive-workflow/","title":"ChatGPT and ADHD - A comprehensive Workflow","tags":["status/working-on"],"noteIcon":"","created":"Invalid date","updated":"2023-12-23T16:54:18.842+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/chat-gpt-and-adhd-a-comprehensive-workflow/","title":"ChatGPT and ADHD - A comprehensive Workflow","tags":["status/working-on"],"noteIcon":"","created":"Invalid date","updated":"2024-01-03T00:16:06.680+01:00"}
 ---
+
 
 I'm insanely lazy. and so I'd say that I've really made a valiant attempt to integrate both the technologies that I've come from, let's say, the explosive boom of the AI revolution.
 
-Because someone who has struggled with [[02-Working on/Evergreen MOCS/MOC_ADHD\|MOC_ADHD]] my entire life, [[02-Working on/Evergreen MOCS/ChatGPT-HUB 🤖\|ChatGPT-HUB 🤖]] has been an absolute gamechanger.
+Because someone who has struggled with [[../Evergreen%20MOCS/MOC_ADHD.md\|../Evergreen%20MOCS/MOC_ADHD.md]] my entire life, [[02-Working on/Evergreen MOCS/ChatGPT-HUB 🤖\|ChatGPT-HUB 🤖]] has been an absolute gamechanger.
 
 Is it like the big benefit of using?
 
@@ -31,7 +32,7 @@ The thing is that when I need to dive into a certain topic, my mind. is stuck. S
 And so, ChatGPT becomes an incredible tool for generating a rough draft of my thoughts and ideas. It allows me to freely write, capturing all my initial concepts, without worrying about structure or perfection. Similar to the common advice in writing, I can just write, write, and write, knowing that I can later refine and create offshoot topics from that initial draft. It provides a space where I can let my ideas flow without constraints, helping me express myself and unleash my creativity. Whether I'm working on a written piece or trying to articulate my thoughts, ChatGPT serves as a valuable companion in the process of exploring and developing my ideas.
 
 
-5. Learning Companionship: ChatGPT is a supportive companion during my learning process. It engages in educational discussions, explains complex concepts, and provides context and background information, enhancing my comprehension and retention as I navigate my ADHD challenges.
+5. Learning Companionship: ChatGPT is a supportive companion during my learning process. It engages in educational discussions, explains complex concepts, and provides context and background information, enhancing my comprehension and retention as I navigate my [[02-Working on/Atomic Notes/ADHD\|ADHD]] challenges.
 
 I want to express my honest opinion: I find school unnecessarily complicated. It feels like it's more complex than it needs to be. Picture this: a teacher standing at the front of the classroom, explaining a concept or theory using convoluted academic jargon that most people struggle to understand, even after years of trying to grasp it. The problem, in my view, lies with the teachers. They often stick strictly to the book and fail to recognize that not everyone comprehends information in the same way. Throughout my years in education, I've seen numerous instances where this has been proven.
 
@@ -41,6 +42,6 @@ Now look back at your own experience is the class. Did your teacher do this?
 
 Truth be told, probably not. But you see, this is where chat GPT has shown to be insanely beautiful to me. Because of its LLM-nature, It has the ability to take. obtuse pieces of information and theories and concepts and break it down not only into something relatable and understandable for our pea monkey brains.
 
-[[Example chatgpt and adhd a comprehensive workflow\|Example chatgpt and adhd a comprehensive workflow]]
+[[02-Working on/Atomic Notes/ChatGPT and ADHD - A comprehensive Workflow\|ChatGPT and ADHD - A comprehensive Workflow]]
 
 ## References

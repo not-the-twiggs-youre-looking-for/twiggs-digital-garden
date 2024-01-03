@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/constructivism/","title":"Constructivism","tags":["type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Tuesday, October 31st 2023, 1:31:24 pm","updated":"2023-12-23T16:54:18.843+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/constructivism/","title":"Constructivism","tags":["type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Tuesday, October 31st 2023, 1:31:24 pm","updated":"2024-01-03T01:51:16.773+01:00"}
 ---
+
 
 🎓 Constructivism essentially postulates that **truth is** **constructed and subjective reality (re)created through individual and collective perceptions and interpretations of the reality.
 
 > [!Definition] The difference between subjectivist and constructivist epistemology and ontology.
 >
-> 🎓 Both the [[02-Working on/Atomic Notes/Subjectivism\|subjective]] and the [[02_ Working Brain/00_Please-Process 1/001_Refracted Notes/Constructivism\|constructivist]] view are subjective in both their epistemology.  Constructivism differs from [[02-Working on/Atomic Notes/Subjectivism\|Subjectivism]] in the way where knowledge (and scientific) and reality is **actively constructed by individual or community-based frameworks, from social and cultural influences** around us.
-> 🎓What this means in ELI5 terms; is that [[02-Working on/Atomic Notes/Subjectivism\|Subjectivism]] is like everyone has different colored glasses and thus everyone sees the world in a different color/interpretation.
+> 🎓 Both the  and the [[02_ Working Brain/00_Please-Process 1/001_Refracted Notes/Constructivism\|02_ Working Brain/00_Please-Process 1/001_Refracted Notes/Constructivism]] in the way where knowledge (and scientific) and reality is **actively constructed by individual or community-based frameworks, from social and cultural influences** around us.
+> 🎓What this means in ELI5 terms; is that [[02-Working on/Atomic Notes/Subjectivism\|Subjectivism.md]] is like everyone has different colored glasses and thus everyone sees the world in a different color/interpretation.
 > 🎓 Meanwhile, the [[02_ Working Brain/00_Please-Process 1/001_Refracted Notes/Constructivism\|Constructivist]] ELI5 is a collective having a puzzle that they need to piece together. Together as they solve this puzzle, they construct the reality and understanding of the world/question is an **amalgomation of different contributions.**
 >
 
@@ -25,6 +26,6 @@ Essentially this philosophy is all about "there are many realities, and your und
 
 
 
- [[2KG301-1 - Lecture 1\|2KG301-1 - Lecture 1]]
+
 
 

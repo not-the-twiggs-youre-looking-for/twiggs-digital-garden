@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2023-12-31T05:28:15.197+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/scientific-theory/","title":"Scientific Theory","noteIcon":"","created":"Monday, October 30th 2023, 12:42:43 am","updated":"2024-01-03T01:11:13.509+01:00"}
 ---
+
 
 ## Scientific Theory Basics
 Scientific theory is a fundamental aspect of the scientific method, which is a systematic approach used by scientists to acquire knowledge about the natural world. A scientific theory is a well-substantiated explanation of some aspect of the natural world that is based on a body of evidence and has been repeatedly tested and confirmed through experimentation and observation.
@@ -49,38 +50,38 @@ source of knowledge = ontology
 
 | Philosophical Stance | Perception of Reality         | Source of Knowledge                            | Relationship with Science                        | Link to Base           | Explanation                                                                                         |
 |----------------------|-------------------------------|------------------------------------------------|-------------------------------------------------|------------------------|-----------------------------------------------------------------------------------------------------|
-| Rationalism          |                               |                                                |                                                 | [[Rationalism\|Rationalism]]        | Emphasizes the role of reason and logical analysis in acquiring knowledge.                          |
-| Positivism           | Objective                     | Empirical Observation, Verifiable Data         | Empirical, Experimental, Focused on Verification | [[02-Working on/Atomic Notes/Positivism\|Positivism]]         | Emphasizes the use of empirical evidence and scientific methods to understand the world.            |
-| Constructivism       | Subjectively Constructed      | Social Interaction, Cultural Contexts          | Socially Constructed, Open to Interpretation    | [[02-Working on/Atomic Notes/Constructivism\|Constructivism]]     | Emphasizes the active role of the individual in constructing knowledge through personal experiences and social interactions. |
-| Pragmatism           |                               |                                                |                                                 | [[Pragmatism\|Pragmatism]]         | Focuses on the practical consequences and usefulness of beliefs and theories.                       |
-| Realism              |                               |                                                |                                                 | [[Realism\|Realism]]            | Asserts the existence of an external reality independent of human perception.                       |
-| Critical Realism     | Objective with limitations    | Empirical Data combined with deeper causal mechanisms | Combination of Empirical and Deeper Understanding | [[02-Working on/Atomic Notes/Critical Realism\|Critical Realism]]   | Combines elements of realism and constructivism, acknowledging the existence of an external reality while recognizing the role of human interpretation and social contexts in understanding it. |
-| Subjectivism         | Subjective                    | Personal Experience, Individual Interpretation | Emphasizes Interpretation, Personal Involvement |                        |                                                                                                     |
+| Rationalism          |                               |                                                |                                                 | [Rationalism](Rationalism)        | Emphasizes the role of reason and logical analysis in acquiring knowledge.                          |
+| [[02-Working on/Atomic Notes/Positivism\|Positivism]]           | Objective                     | Empirical Observation, Verifiable Data         | Empirical, Experimental, Focused on Verification | [.md|[[02-Working on/Atomic Notes/Positivism\|Positivism]].md]]         | Emphasizes the use of empirical evidence and scientific methods to understand the world.            |
+| [[02_ Working Brain/00_Please-Process 1/Constructivism\|02_ Working Brain/00_Please-Process 1/Constructivism]]     | Emphasizes the active role of the individual in constructing knowledge through personal experiences and social interactions. |
+| Pragmatism           |                               |                                                |                                                 | [Pragmatism](Pragmatism)         | Focuses on the practical consequences and usefulness of beliefs and theories.                       |
+| Realism              |                               |                                                |                                                 | [Realism](Realism)            | Asserts the existence of an external reality independent of human perception.                       |
+| [[02-Working on/Atomic Notes/Critical Realism\|Critical Realism]]     | Objective with limitations    | Empirical Data combined with deeper causal mechanisms | Combination of Empirical and Deeper Understanding | [|Critical%20Realism.md]]   | Combines elements of realism and constructivism, acknowledging the existence of an external reality while recognizing the role of human interpretation and social contexts in understanding it. |
+| [[02-Working on/Atomic Notes/Subjectivism\|Subjectivism]]         | Subjective                    | Personal Experience, Individual Interpretation | Emphasizes Interpretation, Personal Involvement |                        |                                                                                                     |
 | Dualism              | Dualistic (Physical and Non-Physical Realities) | Empirical and Non-Empirical sources           | Embraces different realms of reality            |                        |                                                                                                     |
 | Objectivism          | Objective, Independent Existence | Objective Truth, Independent from perception | Emphasizes Objective Truth, Scientific Method   |                        |                                                                                                     |
 
 
  For instance if you look in the different philosophies there are links to different stances on strong and weak typologies.
 
- [[02-Working on/Atomic Notes/Constructivism\|Constructivism]] [[02-Working on/Atomic Notes/Positivism\|Positivism]]
+ [[02-Working on/Atomic Notes/Constructivism\|Constructivism.md]] [[02-Working on/Atomic Notes/Positivism\|Positivism.md]]
 
 
 
 ## How to Think about Science Changes over time – History of Paragdim Shifts
 
 
-- Social science has several predominant paradigms: [[02-Working on/Atomic Notes/Positivism\|Positivism]], interpretivism, social constructionism, critical paradigm, and postmodernism.  Each paradigm offers a different perspective on conducting research in sociology. See [[02-Working on/Atomic Notes/Scientific Theory#Different philosophical stances\|Scientific Theory#Different philosophical stances]].
+- Social science has several predominant paradigms: [[02-Working on/Atomic Notes/Positivism\|Positivism.md]], interpretivism, social constructionism, critical paradigm, and postmodernism.  Each paradigm offers a different perspective on conducting research in sociology. See [[02-Working on/Atomic Notes/Scientific Theory#Different philosophical stances\|Scientific Theory#Different philosophical stances]].
 
 - The quantitative revolution brought about a shift towards the use of quantitative methods in social science research.
-- [[Marxism\|Marxism]] focuses on understanding society through power dynamics and class struggle.
-- [[Modernism\|Modernism]] emphasizes rationality and objective truths, while postmodernism challenges the idea of objective truth and favors multiple interpretations.
+- [Marxism](Marxism) focuses on understanding society through power dynamics and class struggle.
+- [Modernism](Modernism) emphasizes rationality and objective truths, while postmodernism challenges the idea of objective truth and favors multiple interpretations.
 - The [[Kuhn Cycle \|Kuhn Cycle ]]explains how scientific paradigms and theories evolve over time through crisis and the emergence of new paradigms.
 
 
 
 - A paradigm is a way of viewing the world and understanding it.
 - In social science, there are several predominant paradigms: positivism, interpretivism, social constructionism, critical paradigm, and postmodernism.
-- Positivism is guided by objectivity, knowability, and deductive logic, aiming for a value-free sociology.
+- [[02-Working on/Atomic Notes/Positivism\|Positivism]] is guided by objectivity, knowability, and deductive logic, aiming for a value-free sociology.
 - Interpretivism focuses on understanding human differences and the meanings individuals give to social roles.
 - Social constructionism sees truth as socially constructed and ever-changing, emphasizing social context and interaction.
 - The critical paradigm focuses on power, inequality, and social change, challenging the idea of objective and value-free research.
@@ -123,16 +124,8 @@ source of knowledge = ontology
 
 # Edut & Working on
 
-[[For better democracy in the city\|For better democracy in the city]]
-[[Planning theory should be studied in a non-western lens.\|Planning theory should be studied in a non-western lens.]]
-[[Paradigm Perspectives in Research\|Paradigm Perspectives in Research]]
-[[The traditional argument like many things eventually became too abstract\|The traditional argument like many things eventually became too abstract]]
-[[Conflicting rationalities is linked to the chicago school\|Conflicting rationalities is linked to the chicago school]]
-
 # Philosophy of Scientific Theory
 
-
-[[Key terms\|Key terms]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/minimalism-is-life-in-a-bag/","title":"Minimalism is life in a bag","tags":["type/atomic-note"],"noteIcon":"","created":"Tuesday, December 19th 2023, 1:00:54 am","updated":"2023-12-23T16:54:18.879+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/minimalism-is-life-in-a-bag/","title":"Minimalism is life in a bag","tags":["type/atomic-note"],"noteIcon":"","created":"Tuesday, December 19th 2023, 1:00:54 am","updated":"2024-01-03T00:16:06.678+01:00"}
 ---
 
 

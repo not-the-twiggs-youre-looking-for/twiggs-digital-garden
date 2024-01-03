@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/human-geographer-carl-sauer/","title":"Human Geographer Carl Sauer","noteIcon":"","created":"Monday, December 11th 2023, 8:32:17 pm","updated":"2023-12-23T16:54:18.850+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/human-geographer-carl-sauer/","title":"Human Geographer Carl Sauer","noteIcon":"","created":"Monday, December 11th 2023, 8:32:17 pm","updated":"2024-01-03T00:47:02.163+01:00"}
 ---
+
 
 Carl Sauer (1889-1975) was an influential American geographer often considered to be one of the founding fathers of cultural geography. He is known for his work in the field of human geography, particularly his emphasis on cultural landscapes and the ways in which humans shape and are shaped by their environment.
 

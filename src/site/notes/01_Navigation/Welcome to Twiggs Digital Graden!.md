@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/welcome-to-twiggs-digital-graden/","title":"Welcome to Twiggs Digital Graden!","tags":["gardenEntry"],"noteIcon":"","created":"Monday, December 18th 2023, 6:46:47 pm","updated":"2023-12-23T17:07:01.731+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/welcome-to-twiggs-digital-graden/","title":"Welcome to Twiggs Digital Graden!","tags":["gardenEntry"],"noteIcon":"","created":"Monday, December 18th 2023, 6:46:47 pm","updated":"2024-01-03T02:38:46.127+01:00"}
 ---
 
 
@@ -21,7 +21,9 @@ If you're looking get longer pieces of content, feel free to the folder **"04 - 
 
 Other than that, there is a search function **(ctrl/cmd + k)** to quickly peruse my notes should anything ever strike your fancy. Some links may leave it to a dead end, and that's right these are simply notes and links that I'm not quite ready to share with the world yet.
 
-If you're interested in knowing more [[01_Navigation/About/More about me\|about me as a person]] click there.
+If you're interested in knowing more [[01_Navigation/About/More about me\|about me as a person]] click there. If you want to see what I'm up to (think of like a /now page) and what I'm going to be up to soon, click [[0_Hidden & Private/KANBAN_Start Page\|here]]
+
+
 
 ---
 

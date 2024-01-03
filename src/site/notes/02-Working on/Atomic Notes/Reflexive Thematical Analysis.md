@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/reflexive-thematical-analysis/","tags":["type/atomic-note"],"noteIcon":"","updated":"2023-12-23T16:54:18.895+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/reflexive-thematical-analysis/","title":"Reflexive Thematical Analysis","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 5:20:56 pm","updated":"2024-01-03T01:11:23.461+01:00"}
 ---
 
 
 # Reflexive Thematical Analysis
-**Refactored from: [[99_System Folder/System Files/Zotero/References/@braunReflectingReflexiveThematic2019\|@braunReflectingReflexiveThematic2019]]**
+**Refactored from:
+
+[[02-Working on/Atomic Notes/Reflexive Thematical Analysis\|Reflexive Thematical Analysis]]
 
 The authors[@braunReflectingReflexiveThematic2019] made a change in their approach to Thematic Analysis (TA) by becoming more reflective. They started giving more importance to the subjectivity of the researcher and the need for reflexivity. Instead of considering TA as a broadly flexible method, they started leaning towards a more constrained approach, based on specific theoretical foundations. They also recognized that TA encompasses various approaches, each influenced by different philosophical assumptions and viewpoints.
 
@@ -26,5 +28,5 @@ First, it's essential to recognize the diversity of TA approaches and select one
 
  [@braunReflectingReflexiveThematic2019]
 
---- 
- 
+---
+

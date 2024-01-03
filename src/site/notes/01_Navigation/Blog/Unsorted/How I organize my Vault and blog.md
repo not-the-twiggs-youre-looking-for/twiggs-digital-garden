@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2023-12-23T17:11:34.099+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2024-01-03T01:13:00.001+01:00"}
 ---
 
 
-You know, I think I finally found a program and a system that works for now that will help me achieve all of my [[Goals for 2024](../Goals%20for%202024.md).  I've managed to learn how to [[Rapidly dumping info with Voice-to-text and AI-editing to make notes fast](../../../02-Working%20on/Atomic%20Notes/Rapidly%20dumping%20info%20with%20Voice-to-text%20and%20AI-editing%20to%20make%20notes%20fast.md).
-
-
-
+You know, I think I finally found a program and a system that works for now that will help me achieve all of my [[01_Navigation/Goals for 2024\|Goals for 2024]]
 
 A general system and workflow for my notes includes using tags, metadata and status notes can be found in the [[My Workflow.canvas|My Workflow](../../../My%20Workflow.canvas) canvas file and for organizing this I've had three core philosophies so far.
 
@@ -17,7 +14,7 @@ A general system and workflow for my notes includes using tags, metadata and sta
 The main purpose is to minimize the amount of variables as little as possible and keep it as vanilla obsidian as possible, whenever they release new features I suppose I start using them as well.
 
 ### Tags Are not Good Topic Organizers
-The problem with having tags as a note system is that it still does is categorizes them and are not linked in context because [[Notes Need to Be Deeply Interlinked and Easily Discoverable](../../../02-Working%20on/Atomic%20Notes/Notes%20Need%20to%20Be%20Deeply%20Interlinked%20and%20Easily%20Discoverable.md). Andy M
+The problem with having tags as a note system is that it still does is categorizes them and are not linked in context because [[02-Working on/Atomic Notes/Notes Need to Be Deeply Interlinked and Easily Discoverable\|Notes Need to Be Deeply Interlinked and Easily Discoverable]]. Andy M
 
 By linking notes together directly, not as topic linkers: wikilinks do that within context as I am primarily with Atomic Notes as ad-hoc language shorthands.
 
@@ -29,15 +26,15 @@ In my vault and my entire organizing system, I follow Matuschaks idea of "prefer
 
 1. **Folders**: In Obsidian, you can organize your notes using a folder structure, just like you would with traditional files and directories on your computer. Folders are used to group related notes together, helping you maintain a logical and hierarchical organization of your knowledge. You can create folders within Obsidian's file system, move notes between them, and even nest folders to create subcategories. This makes it easy to find and access your notes when you have a large collection of interconnected information.
 
-3. **Tags**: Tags in Obsidian provide a flexible and dynamic way to categorize and connect your notes. You can assign one or more tags to each note, which allows you to organize your notes across different dimensions. For example, you can tag notes with keywords like "project," "research," "personal," or any other relevant category. While most people have a tagging system for this, I prefer to use tags only as a form of "properties" indicator, where it tells me what the note is for. [[How I organize my Vault and blog#purpose Types Gives Me an Insight in what They Are for](../../../..//01_Navigation/Blog/Unsorted/How%20I%20organize%20my%20Vault%20and%20blog.md)
+3. **Tags**: Tags in Obsidian provide a flexible and dynamic way to categorize and connect your notes. You can assign one or more tags to each note, which allows you to organize your notes across different dimensions. For example, you can tag notes with keywords like "project," "research," "personal," or any other relevant category. While most people have a tagging system for this, I prefer to use tags only as a form of "properties" indicator, where it tells me what the note is for. [[01_Navigation/Blog/Unsorted/How I organize my Vault and blog#purpose Types Gives Me an Insight in what They Are for\|How I organize my Vault and blog#purpose Types Gives Me an Insight in what They Are for]]
 
-3. **Bi-Directional Links**: Bi-directional links are one of the core features that set Obsidian apart from other note-taking applications. They enable a two-way connection between notes. Whenever you mention a note within the text of another note, Obsidian automatically creates a backlink from the mentioned note to the note where the reference was made. This bidirectional linking allows you to establish relationships between ideas, concepts, and notes effortlessly. You can see at a glance which notes are connected to a specific idea and this, in essence is how you navigate this website; non-linearily. Remember, this vault is a language and [[notes represent my language](notes%20represent%20my%20language.md).
+	1. **Bi-Directional Links**: Bi-directional links are one of the core features that set Obsidian apart from other note-taking applications. They enable a two-way connection between notes. Whenever you mention a note within the text of another note, Obsidian automatically creates a backlink from the mentioned note to the note where the reference was made. This bidirectional linking allows you to establish relationships between ideas, concepts, and notes effortlessly. You can see at a glance which notes are connected to a specific idea and this, in essence is how you navigate this website; non-linearily. Remember, this vault is a language and [[02-Working on/Atomic Notes/notes represent my language\|notes represent my language]].
 
 ### How I Use Tags in Obsidian
 
 After year or so after using Obsidian seriously, I realized the problems with using tags to organize notes and writings them by topic instead of links.
 These were
-1. Surprisingly individual notes were not practical to find using tags, [[Notes Need to Be Deeply Interlinked and Easily Discoverable|linked words and sentences worked way better](../../../02-Working%20on/Atomic%20Notes/Notes%20Need%20to%20Be%20Deeply%20Interlinked%20and%20Easily%20Discoverable.md).
+1. Surprisingly individual notes were not practical to find using tags, [[02-Working on/Atomic Notes/Notes Need to Be Deeply Interlinked and Easily Discoverable\|linked words and sentences worked way better]].
 2. At some point there were too many tags, and it was a massive PITA to use tags instead of it.
 
 In my experience, a better way of organizing notes and writings have been to use tags exclusively as a way to filter for a file's

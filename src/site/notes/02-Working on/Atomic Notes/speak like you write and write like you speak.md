@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/speak-like-you-write-and-write-like-you-speak/","title":"speak like you write and write like you speak","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 11:36:47 pm","updated":"2023-12-23T17:11:25.789+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/speak-like-you-write-and-write-like-you-speak/","title":"speak like you write and write like you speak","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 11:36:47 pm","updated":"2024-01-03T01:11:22.226+01:00"}
 ---
 
 

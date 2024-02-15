@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/notes-need-to-be-deeply-interlinked-and-easily-discoverable/","title":"Notes Need to Be Deeply Interlinked and Easily Discoverable","tags":["type/atomic-note"],"noteIcon":"","created":"Monday, December 18th 2023, 7:23:34 pm","updated":"2024-01-03T00:16:06.678+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/notes-need-to-be-deeply-interlinked-and-easily-discoverable/","title":"Notes Need to Be Deeply Interlinked and Easily Discoverable","tags":["type/atomic-note"],"noteIcon":"","created":"Monday, December 18th 2023, 7:23:34 pm","updated":"2024-02-09T14:58:46.600+01:00"}
 ---
 
 

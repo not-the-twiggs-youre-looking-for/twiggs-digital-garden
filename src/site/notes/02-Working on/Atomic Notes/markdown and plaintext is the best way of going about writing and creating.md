@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/markdown-and-plaintext-is-the-best-way-of-going-about-writing-and-creating/","title":"markdown and plaintext is the best way of going about writing and creating","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 10:48:05 pm","updated":"2024-01-03T00:16:06.680+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/markdown-and-plaintext-is-the-best-way-of-going-about-writing-and-creating/","title":"markdown and plaintext is the best way of going about writing and creating","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 10:48:05 pm","updated":"2024-02-14T17:57:04.680+01:00"}
 ---
 
 

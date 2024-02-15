@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/qualitative-methods-in-human-geography/","title":"Qualitative methods in Human Geography","noteIcon":"","created":"Monday, December 18th 2023, 10:16:16 am","updated":"2024-01-03T01:12:27.157+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/qualitative-methods-in-human-geography/","title":"Qualitative methods in Human Geography","noteIcon":"","created":"Monday, December 18th 2023, 10:16:16 am","updated":"2024-02-14T17:48:46.253+01:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 **In-Depth Summary and Key Topics:**
 
-Chapter 5  of[@clokePractisingHumanGeography2004]provides a thorough analysis of qualitative research methodologies in human geography, with a focus on the historical development and application of interviewing and questionnaire techniques.
+Chapter 5 of[@clokePractisingHumanGeography2004]provides a thorough analysis of qualitative research methodologies in human geography, with a focus on the historical development and application of interviewing and questionnaire techniques.
 
 - **Historical Context of Qualitative Methods**:
   - The chapter begins by challenging the perception that qualitative methods in **geography are a recent phenomenon, highlighting their deep-rooted history.**
@@ -159,6 +159,7 @@ This summary covers three important texts about the use of interviews in qualita
    - **Ontology**: The paper suggests a constructivist view, where knowledge is seen as socially constructed, including through interviews.
 
 **[[@friedmannPlacePlaceMakingCities2014\|@friedmannPlacePlaceMakingCities2014]]**:
+
 - Interviews in qualitative research should not be seen as direct gateways to authentic experiences but as performative acts that require rigorous and critical analysis.
 - Both Hammersley and Silverman emphasize the importance of balancing the understanding of interviews' limitations with their potential value, particularly when used in conjunction with other methods.
 - The constructivist ontology is a recurring theme, highlighting the role of interviews in constructing knowledge through social interactions.

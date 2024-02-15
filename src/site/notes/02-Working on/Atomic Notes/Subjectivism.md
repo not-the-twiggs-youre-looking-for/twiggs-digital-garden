@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/subjectivism/","title":"Subjectivism","noteIcon":"","created":"Tuesday, October 31st 2023, 2:15:11 pm","updated":"2024-01-03T01:11:10.849+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/subjectivism/","title":"Subjectivism","noteIcon":"","created":"Tuesday, October 31st 2023, 2:15:11 pm","updated":"2024-02-15T19:08:16.762+01:00"}
 ---
 
 

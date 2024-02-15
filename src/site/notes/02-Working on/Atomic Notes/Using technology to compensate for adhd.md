@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/using-technology-to-compensate-for-adhd/","title":"Using technology to compensate for adhd","noteIcon":"","created":"Tuesday, December 19th 2023, 2:09:56 pm","updated":"2024-01-03T01:19:19.044+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/using-technology-to-compensate-for-adhd/","title":"Using technology to compensate for adhd","noteIcon":"","created":"Tuesday, December 19th 2023, 2:09:56 pm","updated":"2024-02-15T19:08:16.766+01:00"}
 ---
 
 

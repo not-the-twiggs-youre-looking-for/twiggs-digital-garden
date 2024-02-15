@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/thematical-analysis/","title":"Thematical Analysis","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 5:05:50 pm","updated":"2024-01-03T01:12:07.526+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/thematical-analysis/","title":"Thematical Analysis","tags":["type/atomic-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 5:05:50 pm","updated":"2024-02-09T15:00:10.876+01:00"}
 ---
 
 

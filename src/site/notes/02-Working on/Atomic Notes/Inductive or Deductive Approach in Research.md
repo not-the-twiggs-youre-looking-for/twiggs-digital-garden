@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/inductive-or-deductive-approach-in-research/","title":"Inductive or Deductive Approach in Research","tags":["type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 4:59:45 pm","updated":"2024-01-03T00:16:06.679+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/inductive-or-deductive-approach-in-research/","title":"Inductive or Deductive Approach in Research","tags":["type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Wednesday, December 20th 2023, 4:59:45 pm","updated":"2024-02-15T19:08:16.721+01:00"}
 ---
 
 

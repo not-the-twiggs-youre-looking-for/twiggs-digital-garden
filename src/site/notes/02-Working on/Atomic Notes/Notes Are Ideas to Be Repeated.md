@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/notes-are-ideas-to-be-repeated/","title":"Notes Are Ideas to Be Repeated","tags":["type/atomic-note","type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Tuesday, December 19th 2023, 3:45:00 am","updated":"2024-01-03T00:32:53.065+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/notes-are-ideas-to-be-repeated/","title":"Notes Are Ideas to Be Repeated","tags":["type/atomic-note","type/atomic-note","type/litterature-note"],"noteIcon":"","created":"Tuesday, December 19th 2023, 3:45:00 am","updated":"2024-02-15T19:08:16.733+01:00"}
 ---
 
 

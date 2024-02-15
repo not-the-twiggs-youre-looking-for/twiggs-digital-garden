@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/interview-studies-and-research-ethics/","title":"Interview Studies and Research Ethics","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 12:50:18 pm","updated":"2024-01-03T01:57:36.409+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/interview-studies-and-research-ethics/","title":"Interview Studies and Research Ethics","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 12:50:18 pm","updated":"2024-01-11T01:25:49.318+01:00"}
 ---
 
 
@@ -52,12 +52,6 @@ Overall, these texts provide a nuanced understanding of the role and reliability
 
 
 # References & Citations
-
-[[../../99_System%20Folder/System%20Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019.md\|../../99_System%20Folder/System%20Files/Zotero/References/@whitakerAuthenticityInterviewPositive2019.md]]
-[[../../99_System%20Folder/System%20Files/Zotero/References/@hammersleyInterviewDataQualified2017.md\|../../99_System%20Folder/System%20Files/Zotero/References/@hammersleyInterviewDataQualified2017.md]]
-[[../../99_System%20Folder/System%20Files/Zotero/References/@HowWasIt.md\|../../99_System%20Folder/System%20Files/Zotero/References/@HowWasIt.md]]
-[[../../99_System%20Folder/System%20Files/Zotero/References/@chevtaevaCoworkingColivingAttraction2020.md\|../../99_System%20Folder/System%20Files/Zotero/References/@chevtaevaCoworkingColivingAttraction2020.md]]
-
 
 
 

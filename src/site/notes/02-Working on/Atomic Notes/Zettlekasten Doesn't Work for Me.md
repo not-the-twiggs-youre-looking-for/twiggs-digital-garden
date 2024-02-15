@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/zettlekasten-doesn-t-work-for-me/","title":"Zettlekasten Doesn't Work for Me","tags":["type/atomic-note"],"noteIcon":"","created":"Sunday, September 24th 2023, 8:54:50 pm","updated":"2024-01-03T00:16:06.678+01:00"}
+{"dg-publish":true,"permalink":"/02-working-on/atomic-notes/zettlekasten-doesn-t-work-for-me/","title":"Zettlekasten Doesn't Work for Me","tags":["type/atomic-note"],"noteIcon":"","created":"Sunday, September 24th 2023, 8:54:50 pm","updated":"2024-02-15T19:08:16.767+01:00"}
 ---
 
 

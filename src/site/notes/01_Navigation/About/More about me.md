@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/about/more-about-me/","title":"More about me","tags":["status/static"],"noteIcon":"","created":"Monday, December 18th 2023, 5:23:31 pm","updated":"2024-01-03T01:41:49.315+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/about/more-about-me/","title":"More about me","tags":["status/static"],"noteIcon":"","created":"Monday, December 18th 2023, 5:23:31 pm","updated":"2024-02-14T17:47:36.298+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@ I live in the city of Umeå in Sweden; perhaps you've seen the[ viral video ]( [
 
 As of September 2023, I am a student studying the masters course for "Spatial Planning & Sustainability" at Umeå University  [^1] with a BA in Human Geography and Urban Planning [^2] at the same instution.
 
-In my free time, I like playing video games, optimizing my life through the use and application of new and emerging technologies. On the occasion that there's enough interest and money, I love to travel and meet poeple all over the world.
+In my free time, I like playing video games, optimizing my life through the use and application of new and emerging technologies. On the occasion that there's enough interest and money, I love to travel and meet people all over the world.
 
 Biggest one though?
 

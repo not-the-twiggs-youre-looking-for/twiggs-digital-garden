@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2024-01-03T01:13:00.001+01:00"}
+{"dg-publish":true,"permalink":"/01-navigation/blog/unsorted/how-i-organize-my-vault-and-blog/","title":"How I organize my Vault and blog","tags":["status/working-on"],"noteIcon":"","created":"Monday, December 18th 2023, 7:59:35 pm","updated":"2024-01-03T02:52:30.577+01:00"}
 ---
 
 
 You know, I think I finally found a program and a system that works for now that will help me achieve all of my [[01_Navigation/Goals for 2024\|Goals for 2024]]
 
-A general system and workflow for my notes includes using tags, metadata and status notes can be found in the [[My Workflow.canvas|My Workflow](../../../My%20Workflow.canvas) canvas file and for organizing this I've had three core philosophies so far.
+A general system and workflow for my notes includes using tags, metadata and status notes can be found in the canvas file and for organizing this I've had three core philosophies so far.
 
 1. Rely on links over organization
 2. Keep Obsidian as Vanilla as possible
